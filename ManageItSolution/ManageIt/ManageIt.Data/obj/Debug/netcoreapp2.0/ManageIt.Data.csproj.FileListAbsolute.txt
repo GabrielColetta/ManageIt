@@ -1,0 +1,11 @@
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\bin\Debug\netcoreapp2.0\ManageIt.Data.deps.json
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\bin\Debug\netcoreapp2.0\ManageIt.Data.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\bin\Debug\netcoreapp2.0\ManageIt.Data.pdb
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\bin\Debug\netcoreapp2.0\ManageIt.Domain.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\bin\Debug\netcoreapp2.0\ManageIt.Domain.pdb
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\obj\Debug\netcoreapp2.0\ManageIt.Data.csprojResolveAssemblyReference.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\obj\Debug\netcoreapp2.0\ManageIt.Data.csproj.CoreCompileInputs.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\obj\Debug\netcoreapp2.0\ManageIt.Data.AssemblyInfoInputs.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\obj\Debug\netcoreapp2.0\ManageIt.Data.AssemblyInfo.cs
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\obj\Debug\netcoreapp2.0\ManageIt.Data.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Data\obj\Debug\netcoreapp2.0\ManageIt.Data.pdb

@@ -1,0 +1,13 @@
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\bin\Debug\netcoreapp2.0\ManageIt.Exceptions.deps.json
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\bin\Debug\netcoreapp2.0\ManageIt.Exceptions.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\bin\Debug\netcoreapp2.0\ManageIt.Exceptions.pdb
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\obj\Debug\netcoreapp2.0\ManageIt.Exceptions.csprojResolveAssemblyReference.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\obj\Debug\netcoreapp2.0\ManageIt.Exceptions.csproj.CoreCompileInputs.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\obj\Debug\netcoreapp2.0\ManageIt.Exceptions.AssemblyInfoInputs.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\obj\Debug\netcoreapp2.0\ManageIt.Exceptions.AssemblyInfo.cs
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\obj\Debug\netcoreapp2.0\ManageIt.Exceptions.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Exceptions\obj\Debug\netcoreapp2.0\ManageIt.Exceptions.pdb

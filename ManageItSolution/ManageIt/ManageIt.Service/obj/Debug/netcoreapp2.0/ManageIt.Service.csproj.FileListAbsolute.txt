@@ -1,0 +1,5 @@
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Service\bin\Debug\netcoreapp2.0\ManageIt.Service.deps.json
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Service\bin\Debug\netcoreapp2.0\ManageIt.Service.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Service\obj\Debug\netcoreapp2.0\ManageIt.Service.csproj.CoreCompileInputs.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Service\obj\Debug\netcoreapp2.0\ManageIt.Service.AssemblyInfoInputs.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Service\obj\Debug\netcoreapp2.0\ManageIt.Service.AssemblyInfo.cs

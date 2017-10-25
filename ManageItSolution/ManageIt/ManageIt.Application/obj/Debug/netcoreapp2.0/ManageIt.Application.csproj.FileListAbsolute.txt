@@ -1,0 +1,17 @@
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\obj\Debug\netcoreapp2.0\ManageIt.Application.csprojResolveAssemblyReference.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\obj\Debug\netcoreapp2.0\ManageIt.Application.csproj.CoreCompileInputs.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\obj\Debug\netcoreapp2.0\ManageIt.Application.AssemblyInfoInputs.cache
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\obj\Debug\netcoreapp2.0\ManageIt.Application.AssemblyInfo.cs
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Application.deps.json
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Application.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Application.pdb
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Data.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Domain.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Data.pdb
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Domain.pdb
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\obj\Debug\netcoreapp2.0\ManageIt.Application.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\obj\Debug\netcoreapp2.0\ManageIt.Application.pdb
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Exceptions.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Exceptions.pdb
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Resources.dll
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Application\bin\Debug\netcoreapp2.0\ManageIt.Resources.pdb

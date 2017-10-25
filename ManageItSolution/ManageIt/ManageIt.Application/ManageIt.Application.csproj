@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ManageIt.Data\ManageIt.Data.csproj" />
+    <ProjectReference Include="..\ManageIt.Domain\ManageIt.Domain.csproj" />
+    <ProjectReference Include="..\ManageIt.Exceptions\ManageIt.Exceptions.csproj" />
+    <ProjectReference Include="..\ManageIt.Resources\ManageIt.Resources.csproj" />
+  </ItemGroup>
+
+</Project>
