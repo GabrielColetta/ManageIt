@@ -6,3 +6,4 @@ C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Domain\obj\Debug\netcoreapp2
 C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Domain\obj\Debug\netcoreapp2.0\ManageIt.Domain.AssemblyInfo.cs
 C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Domain\obj\Debug\netcoreapp2.0\ManageIt.Domain.dll
 C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Domain\obj\Debug\netcoreapp2.0\ManageIt.Domain.pdb
+C:\Repo\ManageIt\ManageItSolution\ManageIt\ManageIt.Domain\obj\Debug\netcoreapp2.0\ManageIt.Domain.csprojResolveAssemblyReference.cache

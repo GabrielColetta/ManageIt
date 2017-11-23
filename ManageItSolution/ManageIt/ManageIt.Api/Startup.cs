@@ -4,7 +4,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using ManageIt.Data.Context;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Routing;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Authorization;
 
 namespace ManageIt.Api
 {
@@ -20,19 +21,28 @@ namespace ManageIt.Api
         }
 
         public IConfiguration Configuration { get; }
-        
+
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ConfigurationContext>(options =>
-                options.UseSqlServer("Server=(local)\\SQLEXPRESS01;Database=MANAGEIT;Trusted_Connection=True;"));
+                options.UseSqlServer(Configuration.GetConnectionString("connectionstring")));
 
-            //Faz a injeção de dependências
-            ApplicationService(services);
+            this.ApplicationService(services);
+            this.ConfigureAuth(services);
             services.AddOptions();
-            services.AddCors();
-            services.AddMvcCore();
+            IMvcCoreBuilder mvcCoreBuilder = services.AddMvcCore(options =>
+            {
+                var policy = new AuthorizationPolicyBuilder()
+                         .RequireAuthenticatedUser()
+                         .Build();
+                options.Filters.Add(new AuthorizeFilter(policy));
+            });
+
+            mvcCoreBuilder.AddFormatterMappings()
+                .AddJsonFormatters()
+                .AddCors();
         }
-        
+
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             app.UseStatusCodePagesWithReExecute("/{0}");
@@ -50,23 +60,7 @@ namespace ManageIt.Api
 
             app.UseStaticFiles();
             app.UseCors(builder => builder.AllowAnyHeader());
-            app.UseMvc(routes =>
-            {
-                routes.MapRoute(
-                    name: "defaultRoute",
-                    template: "api/{controller}/{action}",
-                    defaults: new { controller = "Home", action = "Index" });
-            });
-
-            //var routeBuilder = new RouteBuilder(app, new RouteHandler(context =>
-            //{
-            //    return context.Response.WriteAsync("Deu erro!");
-            //}));
-            //routeBuilder.MapRoute(
-            //        name: "defaultRoute",
-            //        template: "api/{controller}/{action}",
-            //        defaults: new { controller = "home", action = "Index" });
-            //app.UseRouter(routeBuilder.Build());
+            app.UseMvc();
         }
     }
 }
